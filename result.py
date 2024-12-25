@@ -1,3 +1,5 @@
+import json
+
 class ResultsParse:
     def __init__(self, resultados):
         self.resultados = resultados
@@ -10,4 +12,5 @@ class ResultsParse:
         elemtos_html = ' '
         for indice, resultados in enumerate(self.resultados, start=1):
             #generamos bloques para guardar los resultados 
-            elmento = f'*<div class ="'
+            elmento = f'*<div class ="resultados">' \ 
+                            f'<div class'
