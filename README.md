@@ -18,7 +18,7 @@ Esta aplicación permite a los usuarios agregar, visualizar y categorizar sus ga
 - Generar reportes mensuales.
 
 ## Instalación
-1. Clona el repositorio:
+1. Clona el repositorio🇦🇽
    ```bash
    git clone https://github.com/usuario/calculadora-gastos.git
 asasa
